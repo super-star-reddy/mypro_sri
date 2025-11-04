@@ -1,9 +1,9 @@
 # mypro_sri
 <html>
 <head>
-  <title>my first program</title>
+  <title>my first sub program</title>
 </head>
 <body>
-  <h1> SAI SUDHIR PG COLLEGE</h1>
+  <h4> ecil hyderabad </h1>
 </body>
 </html>
